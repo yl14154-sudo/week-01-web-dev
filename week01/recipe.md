@@ -1,6 +1,6 @@
 # Tonkotsu Ramen Recipe
 
-![Tonkotsu Ramen](images/tonkotsu-ramen.jpg)
+![Tonkotsu Ramen](img/tonkotsu-ramen.jpg)
 
 ## Ingredients
 
@@ -23,7 +23,7 @@
 
 ## More Recipes
 
-Learn more about cooking from [Just One Cookbook](https://www.justonecookbook.com/easy-tonkotsu-ramen-recipe/).
+Learn more about cooking from [Just One Cookbook](https://www.justonecookbook.com/easy-tonkotsu-ramen-recipe/).https://github.com/yl14154-sudo/week-01-web-dev.git
 
 <!-- ## Cooking Time
 
